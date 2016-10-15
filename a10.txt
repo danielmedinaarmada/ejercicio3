@@ -1,4 +1,3 @@
-repetimos la prueba. a10 desde la terminar.
-para ver los cambios cuando hay confictos
-con el archivo a10 de github.
-
+Este es el resultado final luego de analizar el conficto.
+Aunque tengo que ver si hay forma de analizar los confictos
+sin que haga el cambio en los archivos base del proyecto.
