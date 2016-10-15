@@ -1,0 +1,4 @@
+esto es una pruba
+para ver los confictos
+cuando creo un arhivo en la terminar
+y cuando lo creo directamente en github.
