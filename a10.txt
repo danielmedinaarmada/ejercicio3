@@ -1,0 +1,2 @@
+Archivo a10.txt creado desde github para generar conficto
+con archivo a10.txt creado desde el working directory
